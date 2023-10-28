@@ -12,3 +12,7 @@ Download ➤ [Logo_512](https://minhaskamal.github.io/DownGit/#/home?url=https:/
 
 Download ➤ [Logo_256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Purple_Ring_Linux_Logo/tree/main/Ring_256)
 
+
+------------------
+
+### Looking for ➤ [Black-White Logo](https://github.com/chris1111/Linux-Logo-Black-White)

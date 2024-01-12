@@ -14,8 +14,6 @@ Download ➤ [Logo_256](https://github.com/chris1111/Purple_Ring_Linux_Logo/rele
 
 ------------------
 
-### Looking for ➤ [Black-White Logo](https://github.com/chris1111/
-
-Linux-Logo-Black-White)
+### Looking for ➤ [Black-White Logo](https://github.com/chris1111/Linux-Logo-Black-White)
 
 ### Visit site [Purple_Ring_Linux_Logo](https://chris1111.github.io/Purple_Ring_Linux_Logo/)

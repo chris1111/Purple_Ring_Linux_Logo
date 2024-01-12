@@ -9,10 +9,9 @@ Use them as you wish, and hope you like it.
 
 <img src="Ring_256/Arch.png" alt="Github Project" style="width:20%;"><img src="Ring_256/Garuda.png" alt="Github Project" style="width:20%;"><img src="Ring_256/Puppy.png" alt="Github Project" style="width:20%;">
 
-Download ➤ [Logo_512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Purple_Ring_Linux_Logo/tree/main/Ring_512)
+Download ➤ [Logo_512](https://github.com/chris1111/Purple_Ring_Linux_Logo/releases/download/V1/Ring_512.zip)
 
-Download ➤ [Logo_256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/chris1111/Purple_Ring_Linux_Logo/tree/main/Ring_256)
-
+Download ➤ [Logo_256](https://github.com/chris1111/Purple_Ring_Linux_Logo/releases/download/V1/Ring_256.zip)
 
 ------------------
 
